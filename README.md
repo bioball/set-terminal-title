@@ -10,6 +10,12 @@ setTerminalTitle('Wallaby Wallace', { verbose: true });
 // => Setting terminal title as Wallaby Wallace
 ```
 
+## Installation
+
+```bash
+npm install set-terminal-title
+```
+
 ## Usage
 
 Syntax is `setTerminalTitle(<name>, <opts>)`, where `opts` is an object.
