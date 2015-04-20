@@ -12,7 +12,7 @@ module.exports = function setTerminalTitle(name, opts){
   opts = opts || {};
   opts.logger = opts.logger || console;
   if (opts.verbose) {
-    logger.info("Setting terminal title as " + name);
+    opts.logger.info("Setting terminal title as " + name);
   }
   process.stdout.write("\033]0;" + name + "\007");
 };
