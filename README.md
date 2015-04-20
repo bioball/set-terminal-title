@@ -5,7 +5,7 @@ Set the title of your terminal window.
 ## Example
 
 ```js
-var setTerminalTitle = require('setTerminalTitle');
+var setTerminalTitle = require('set-terminal-title');
 setTerminalTitle('Wallaby Wallace', { verbose: true });
 // => Setting terminal title as Wallaby Wallace
 ```
