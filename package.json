@@ -1,0 +1,11 @@
+{
+  "name": "set-terminal-title",
+  "version": "1.0.0",
+  "description": "set the title of your terminal window",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Dan Chao",
+  "license": "MIT"
+}
