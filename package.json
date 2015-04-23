@@ -6,6 +6,20 @@
   "scripts": {
     "test": "node test.js"
   },
+  "keywords": [
+    "set-terminal-title",
+    "terminal",
+    "process",
+    "title"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bioball/set-terminal-title.git"
+  },
   "author": "Dan Chao",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/bioball/set-terminal-title",
+  "bugs": {
+    "url": "https://github.com/bioball/set-terminal-title/issues"
+  }
 }
