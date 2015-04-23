@@ -1,6 +1,6 @@
 {
   "name": "set-terminal-title",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "set the title of your terminal window",
   "main": "index.js",
   "scripts": {
